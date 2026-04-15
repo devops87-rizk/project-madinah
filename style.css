@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4; /*warna abu-abu sangat muda*/
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333; /*warna teks abu gelap agar nyaman dibaca*/
+    line-height: 1.6; /*Tinggi baris dalam paragraph 1.6 (rekomendasi)*/
+    padding: 20px; /*ruang sekitar konten diberi 20px*/
+}
+
+h1 {
+    color: #2c7a7b; /*merubah warna pada h1*/
+    text-align: center; /*posisi teks ditengah*/
+}
+
+p {
+    font-size: 18px; /*ukuran font paragraf 18px*/
+    margin-bottom: 10px; 
+}
